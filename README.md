@@ -6,21 +6,21 @@ I build tools that people can rely on, and I design them the way I'd want to use
 
 I was born in Madrid and moved to New Jersey at nine without speaking English. Moves since then to Miami and Milwaukee taught me to learn fast and adapt to new environments. Before tech I worked in sales, where I went from opening cold leads to closing deals in three months and sold at triple the industry average. I still bring that focus on results and on the client to everything I build.
 
-[Portfolio](https://vperez-stars.github.io/Portfolio-Site/) · [LinkedIn](https://www.linkedin.com/in/ventura-perez/)
+[Portfolio](https://ventupecas.github.io/Portfolio-Site/) · [LinkedIn](https://www.linkedin.com/in/ventura-perez/)
 
 ---
 
 ## What I've built
 
-**[SafeMaps](https://vperez-stars.github.io/Portfolio-Site/safemaps/)**: a route planner that puts safety first
+**[SafeMaps](https://ventupecas.github.io/Portfolio-Site/safemaps/)**: a route planner that puts safety first
 Picks the safest route, then the most fuel-efficient, then the fastest, for car, bike, walking and bus trips around Milwaukee. It uses its own routing engine on OpenStreetMap roads, public crash data and live work zones. On 20 test trips, the average safety score went from 41 to 70, and risky turns across traffic dropped from 51 to 9. 331 automated tests run on every push.
 `Python` `FastAPI` `Rust` `JavaScript` `Leaflet` `MapLibre` `Three.js`
 
-**[OneTouch](https://vperez-stars.github.io/Portfolio-Site/onetouch/)**: an IT ticket workspace with an AI assistant
+**[OneTouch](https://ventupecas.github.io/Portfolio-Site/onetouch/)**: an IT ticket workspace with an AI assistant
 Ask questions about ServiceNow tickets in plain English and get the answer as a table or chart. Includes 10 ITIL dashboards and exports in 8 formats. I also took it from a laptop to a monitored public service: Docker Compose, Cloudflare Tunnel with no inbound ports, a host migration with about 1 minute of downtime, a guarded failover rehearsed with a real power cut, and phone alerts.
 `Node.js` `Claude API` `PostgreSQL` `Cube` `Metabase` `Docker` `Cloudflare Tunnel` `GitHub Actions` `PowerShell`
 
-**[In Memory of Guernica](https://vperez-stars.github.io/Guernica/)**: a bilingual puzzle for a tech expo
+**[In Memory of Guernica](https://ventupecas.github.io/Guernica/)**: a bilingual puzzle for a tech expo
 An 18-piece jigsaw of Picasso's *Guernica*. Each piece you place unlocks a chapter of the Spanish Civil War and its poets, in Spanish and English. It works offline and on touch screens, and several people can play at once.
 `JavaScript` `Canvas` `Pointer Events` `Web Audio`
 
